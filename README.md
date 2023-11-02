@@ -1,2 +1,3 @@
-# CTI-110
-Web and Python Programming
+# Machine-Leaning
+Machine Learning projects made by me!
+<3
